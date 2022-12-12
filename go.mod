@@ -1,4 +1,4 @@
-module github.com/rootwlg/opencc
+module github.com/rootwlg/newopencc
 
 go 1.16
 
